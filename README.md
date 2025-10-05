@@ -54,7 +54,6 @@ The following figure shows the decision boundaries of all four models on the tes
 - `knn.ipynb` — K-Nearest Neighbors.
 - `decision_tree_classifier.ipynb` — Decision Tree.
 - `Social_Network_Ads.csv` — Dataset used.
-- `Untitled design.png` — Visualization of the results on the test set.
 
 ## How to Run
 
