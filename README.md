@@ -41,7 +41,8 @@ Each notebook corresponds to a different classification algorithm and plots the 
 
 The following figure shows the decision boundaries of all four models on the test set:
 
-![Result on Test Set](Untitled%20design.png)
+
+<img width="3000" height="3000" alt="Untitled design" src="https://github.com/user-attachments/assets/bfb268cb-c803-428d-afab-1556da253976" />
 
 ## Files Included
 
