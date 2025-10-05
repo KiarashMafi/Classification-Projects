@@ -45,13 +45,19 @@ The following figure shows the decision boundaries of all four models on the tes
 
 ## Files Included
 
-- `random_forest_classifier.ipynb` — Random Forest. [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
+- `random_forest_classifier.ipynb` — Random Forest [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
+https://colab.research.google.com/github/KiarashMafi/Classification-Projects/blob/main/random_forest_classifier.ipynb
+)
+- `kernel_svm.ipynb` — Kernel SVM [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
+https://colab.research.google.com/github/KiarashMafi/Classification-Projects/blob/main/kernel_svm.ipynb
+)
+- `knn.ipynb` — K-Nearest Neighbors [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
+https://colab.research.google.com/github/KiarashMafi/Classification-Projects/blob/main/knn.ipynb
+)
+- `decision_tree_classifier.ipynb` — Decision Tree [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
 https://colab.research.google.com/github/KiarashMafi/Classification-Projects/blob/main/decision_tree_classifier.ipynb
 )
-- `kernel_svm.ipynb` — Kernel SVM.
-- `knn.ipynb` — K-Nearest Neighbors.
-- `decision_tree_classifier.ipynb` — Decision Tree.
-- `Social_Network_Ads.csv` — Dataset used.
+
 
 ## How to Run
 
