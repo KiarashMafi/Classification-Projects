@@ -1,7 +1,3 @@
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
-https://colab.research.google.com/github/KiarashMafi/Classification-Projects/blob/main/Random%20Forest%20Classifier/random_forest_classifier.ipynb
-)
-
 # Classification Models Comparison
 
 This project demonstrates the implementation and visualization of different machine learning classification models, including:
@@ -49,7 +45,9 @@ The following figure shows the decision boundaries of all four models on the tes
 
 ## Files Included
 
-- `random_forest_classifier.ipynb` — Random Forest.
+- `random_forest_classifier.ipynb` — Random Forest. [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
+https://colab.research.google.com/github/KiarashMafi/Classification-Projects/blob/main/decision_tree_classifier.ipynb
+)
 - `kernel_svm.ipynb` — Kernel SVM.
 - `knn.ipynb` — K-Nearest Neighbors.
 - `decision_tree_classifier.ipynb` — Decision Tree.
